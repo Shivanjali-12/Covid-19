@@ -2,9 +2,9 @@
 
 A one-stop Web Application for Covid-19 Cases Statistical Visualization and Top Pandemic News Headlines along with a Covid-ChatBot to help users with any questions they might have in view of the pandemic.
 
-<b>Website URL<b> :- https://jolly-meadow-0033b0310.1.azurestaticapps.net
+<b>Website URL :-</b> https://jolly-meadow-0033b0310.1.azurestaticapps.net
   <br>
-<b>Video Demo URL<b> :- https://drive.google.com/file/d/1TqaHZUKiXZdL8xy2tnTZBYgKdMwPQi6c/view
+<b>Video Demo URL :-</b> https://drive.google.com/file/d/1TqaHZUKiXZdL8xy2tnTZBYgKdMwPQi6c/view
 
 ## Inspiration
 
